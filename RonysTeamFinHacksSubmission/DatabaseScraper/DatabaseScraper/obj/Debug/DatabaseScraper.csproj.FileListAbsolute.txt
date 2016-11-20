@@ -1,0 +1,6 @@
+C:\Users\verch\Desktop\Programming\DatabaseScraper\DatabaseScraper\bin\Debug\DatabaseScraper.exe.config
+C:\Users\verch\Desktop\Programming\DatabaseScraper\DatabaseScraper\bin\Debug\DatabaseScraper.exe
+C:\Users\verch\Desktop\Programming\DatabaseScraper\DatabaseScraper\bin\Debug\DatabaseScraper.pdb
+C:\Users\verch\Desktop\Programming\DatabaseScraper\DatabaseScraper\obj\Debug\DatabaseScraper.csprojResolveAssemblyReference.cache
+C:\Users\verch\Desktop\Programming\DatabaseScraper\DatabaseScraper\obj\Debug\DatabaseScraper.exe
+C:\Users\verch\Desktop\Programming\DatabaseScraper\DatabaseScraper\obj\Debug\DatabaseScraper.pdb
